@@ -1,0 +1,14 @@
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\bin\Debug\net10.0\condicionales_1.exe
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\bin\Debug\net10.0\condicionales_1.deps.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\bin\Debug\net10.0\condicionales_1.runtimeconfig.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\bin\Debug\net10.0\condicionales_1.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\bin\Debug\net10.0\condicionales_1.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.AssemblyInfoInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.AssemblyInfo.cs
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.csproj.CoreCompileInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\refint\condicionales_1.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\condicionales_1.genruntimeconfig.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\condicionales_1\obj\Debug\net10.0\ref\condicionales_1.dll

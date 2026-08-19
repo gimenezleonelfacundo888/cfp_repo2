@@ -1,0 +1,14 @@
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.AssemblyInfoInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.AssemblyInfo.cs
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.csproj.CoreCompileInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\bin\Debug\net10.0\metodos(funciones)_eje9PedirEntero.exe
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\bin\Debug\net10.0\metodos(funciones)_eje9PedirEntero.deps.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\bin\Debug\net10.0\metodos(funciones)_eje9PedirEntero.runtimeconfig.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\bin\Debug\net10.0\metodos(funciones)_eje9PedirEntero.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\bin\Debug\net10.0\metodos(funciones)_eje9PedirEntero.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\refint\metodos(funciones)_eje9PedirEntero.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\metodos(funciones)_eje9PedirEntero.genruntimeconfig.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje9PedirEntero\obj\Debug\net10.0\ref\metodos(funciones)_eje9PedirEntero.dll

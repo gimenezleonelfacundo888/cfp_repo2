@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "condicionales_eje3/1.0.0": {
+        "runtime": {
+          "condicionales_eje3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "condicionales_eje3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

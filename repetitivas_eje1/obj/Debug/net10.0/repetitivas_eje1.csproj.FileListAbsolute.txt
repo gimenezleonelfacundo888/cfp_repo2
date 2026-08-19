@@ -1,0 +1,14 @@
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\bin\Debug\net10.0\repetitivas_eje1.exe
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\bin\Debug\net10.0\repetitivas_eje1.deps.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\bin\Debug\net10.0\repetitivas_eje1.runtimeconfig.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\bin\Debug\net10.0\repetitivas_eje1.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\bin\Debug\net10.0\repetitivas_eje1.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.AssemblyInfoInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.AssemblyInfo.cs
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.csproj.CoreCompileInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\refint\repetitivas_eje1.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\repetitivas_eje1.genruntimeconfig.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\repetitivas_eje1\obj\Debug\net10.0\ref\repetitivas_eje1.dll

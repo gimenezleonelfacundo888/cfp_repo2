@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "metodos(funciones)_eje6/1.0.0": {
+        "runtime": {
+          "metodos(funciones)_eje6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metodos(funciones)_eje6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

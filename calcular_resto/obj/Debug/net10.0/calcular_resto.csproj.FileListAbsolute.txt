@@ -1,0 +1,14 @@
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.AssemblyInfoInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.AssemblyInfo.cs
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.csproj.CoreCompileInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\bin\Debug\net10.0\calcular_resto.exe
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\bin\Debug\net10.0\calcular_resto.deps.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\bin\Debug\net10.0\calcular_resto.runtimeconfig.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\bin\Debug\net10.0\calcular_resto.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\bin\Debug\net10.0\calcular_resto.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\refint\calcular_resto.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\calcular_resto.genruntimeconfig.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\calcular_resto\obj\Debug\net10.0\ref\calcular_resto.dll

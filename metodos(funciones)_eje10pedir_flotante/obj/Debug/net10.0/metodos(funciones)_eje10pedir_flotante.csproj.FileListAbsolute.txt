@@ -1,0 +1,14 @@
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\bin\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.exe
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\bin\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.deps.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\bin\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.runtimeconfig.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\bin\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\bin\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.AssemblyInfoInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.AssemblyInfo.cs
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.csproj.CoreCompileInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\refint\metodos(funciones)_eje10pedir_flotante.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\metodos(funciones)_eje10pedir_flotante.genruntimeconfig.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje10pedir_flotante\obj\Debug\net10.0\ref\metodos(funciones)_eje10pedir_flotante.dll

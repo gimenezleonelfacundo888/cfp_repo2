@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "repetitivas_eje3/1.0.0": {
+        "runtime": {
+          "repetitivas_eje3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "repetitivas_eje3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

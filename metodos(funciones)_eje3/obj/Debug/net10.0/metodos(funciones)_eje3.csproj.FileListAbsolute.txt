@@ -1,0 +1,14 @@
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\bin\Debug\net10.0\metodos(funciones)_eje3.exe
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\bin\Debug\net10.0\metodos(funciones)_eje3.deps.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\bin\Debug\net10.0\metodos(funciones)_eje3.runtimeconfig.json
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\bin\Debug\net10.0\metodos(funciones)_eje3.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\bin\Debug\net10.0\metodos(funciones)_eje3.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.AssemblyInfoInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.AssemblyInfo.cs
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.csproj.CoreCompileInputs.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\refint\metodos(funciones)_eje3.dll
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.pdb
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\metodos(funciones)_eje3.genruntimeconfig.cache
+C:\Users\Forest\Desktop\programacion\c#_ejercicios_respaso\calcular_numeros_solucion\metodos(funciones)_eje3\obj\Debug\net10.0\ref\metodos(funciones)_eje3.dll

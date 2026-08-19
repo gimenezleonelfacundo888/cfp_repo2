@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="calcular_presupuesto_eje3/calcular_presupuesto_eje3.csproj" Id="a8315ec3-95de-4f8e-8a50-7891e0bb67a6" />
+  <Project Path="calcular_resto/calcular_resto.csproj" Id="78ed0db0-141a-46e9-9de1-5e5da8aae236" />
+  <Project Path="condicionales_1/condicionales_1.csproj" Id="3fde2f87-e681-4405-b377-21c988e6ae0a" />
+  <Project Path="condicionales_eje2/condicionales_eje2.csproj" Id="f0e929b2-6eac-43a7-b37d-b44b4adb48c0" />
+  <Project Path="condicionales_eje3/condicionales_eje3.csproj" Id="48f6df16-3584-4da7-970b-769b24aa2459" />
+  <Project Path="metodos(funciones)_eje1/metodos(funciones)_eje1.csproj" Id="026787a4-4e06-4714-a05a-8d39dfef023d" />
+  <Project Path="metodos(funciones)_eje10pedir_flotante/metodos(funciones)_eje10pedir_flotante.csproj" Id="83720e1c-07cc-45b5-8a50-29f3c9843343" />
+  <Project Path="metodos(funciones)_eje2/metodos(funciones)_eje2.csproj" Id="36a0f125-3f84-4645-b936-a91a1c122c8d" />
+  <Project Path="metodos(funciones)_eje3/metodos(funciones)_eje3.csproj" Id="b770fc63-6986-4e16-bf62-210d12c54d1e" />
+  <Project Path="metodos(funciones)_eje4/metodos(funciones)_eje4.csproj" Id="15428e8d-f45e-452b-bd5e-51813322f188" />
+  <Project Path="metodos(funciones)_eje5/metodos(funciones)_eje5.csproj" Id="b29dc12d-8bc8-47ea-a0eb-e0388d8a4025" />
+  <Project Path="metodos(funciones)_eje6/metodos(funciones)_eje6.csproj" Id="d8f4b70f-97cb-4a5c-a996-588ccb8e3750" />
+  <Project Path="metodos(funciones)_eje8/metodos(funciones)_eje8.csproj" Id="de834a95-d9e0-4b95-bb08-748871f03ad6" />
+  <Project Path="metodos(funciones)_eje9PedirEntero/metodos(funciones)_eje9PedirEntero.csproj" Id="e6f0fe36-f966-4187-abb6-2b56aeb5c8fb" />
+  <Project Path="metodos(funciones)_repaso/metodos(funciones)_repaso.csproj" Id="24450e9f-d3f2-4237-bce4-d77f4b2def06" />
+  <Project Path="metodos(funcones)_eje7/metodos(funcones)_eje7.csproj" Id="ace15c57-91b6-47bc-86b2-d240756459b8" />
+  <Project Path="proyecto_de_consola/calcular_operaciones.csproj" />
+  <Project Path="repetitivas_eje1/repetitivas_eje1.csproj" Id="45fe0a7a-5b86-4e10-b54c-3067cfb2a6c6" />
+  <Project Path="repetitivas_eje2/repetitivas_eje2.csproj" Id="3f1aa3b1-2317-4134-8069-3548ab69873e" />
+  <Project Path="repetitivas_eje3/repetitivas_eje3.csproj" Id="0475febe-e87d-483f-b6f7-c99ccb91efb0" />
+  <Project Path="repetitivas_eje4/repetitivas_eje4.csproj" Id="093a32d9-d558-4135-a2ce-c4ea9e1e67b6" />
+</Solution>
